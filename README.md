@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praeceptium
 - 👀 I’m interested in gamedeveloping
-- 🌱 I’m currently learning unity and blender
+- 🌱 I’m currently working as a game designer - level designer
 - 💞️ I’m looking to collaborate on hypercasual mobile games
 - 📫 How to reach me caglargeben@hotmail.com
 
